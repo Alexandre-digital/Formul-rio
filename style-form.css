@@ -1,0 +1,89 @@
+nav{
+    background-color:cornflowerblue;
+    height: 100px;
+    margin: -7px;
+    
+   
+}
+
+.navtext{
+    padding: 25px;
+    right: 68%;
+    position: absolute;
+    top: -3%;
+}
+
+.navtext2{
+    padding: 25px;
+    right: 65%;
+    position: absolute;
+    bottom: 78%;
+
+}
+
+.corpo{
+
+    background-color:darkslateblue;
+    color: white;
+
+    margin-top: 0px;
+    
+}
+
+.beneficio{
+    
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: inline-flex;
+}
+}
+
+.dados{
+
+    margin-top: 50px;
+ 
+
+}
+
+.lista{
+
+    
+
+}
+
+#lista1{
+    
+}
+
+.mensagem{
+
+    margin-top: 30px;
+display: grid;
+
+}
+
+.adesao{
+
+    margin-top: 30px;
+
+
+}
+
+.botao{
+    margin-top: 20px;
+}
+
+.fio1{
+
+    background-color: lightblue;
+}
+
+.fio2{
+    background-color: darksalmon;
+}
+
+.fio3{
+
+    background-color: lightslategray;
+}
